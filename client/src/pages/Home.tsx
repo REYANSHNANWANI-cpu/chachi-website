@@ -16,11 +16,11 @@ import {
 } from "lucide-react";
 
 const imageUrls = {
-  hero: "/manus-storage/bliss-hero_8ab3244b.jpg",
-  cocktail: "/manus-storage/bliss-cocktail_c8202c43.jpg",
-  tablescape: "/manus-storage/bliss-tablescape_4e2bb59e.jpg",
-  florals: "/manus-storage/bliss-florals_ba10d73e.jpg",
-  stage: "/manus-storage/bliss-stage_f384b9bf.jpg",
+  hero: "/images/bliss-hero.jpg",
+  cocktail: "/images/bliss-cocktail.jpg",
+  tablescape: "/images/bliss-tablescape.jpg",
+  florals: "/images/bliss-florals.jpg",
+  stage: "/images/bliss-stage.jpg",
 };
 
 const services = [
